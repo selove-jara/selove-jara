@@ -12,11 +12,12 @@
 
 ### ***<b>Основные технологии:</b>***
 
-> ![Java](https://img.shields.io/badge/Java-%3E%3D%208-orange)
-![Spring](https://img.shields.io/badge/Spring-%3E%3D%205.0-green)
-![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D%205.0-yellow)
-![Maven](https://img.shields.io/badge/Maven-3-red)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%205-blue)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=whi
 ---
 
 ### Проекты
