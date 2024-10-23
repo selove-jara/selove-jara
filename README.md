@@ -59,4 +59,10 @@
    <u>**Технологии:**</u>
    При разработке использовал ___Spring Boot, Thymeleaf, Bootstrap, PostgreSQL, Liquibase, Hibernate.___
 
+5. **Проект** - [Todo](https://github.com/selove-jara/job4j_cars)
+   Описание: Приложение для управления задачами, позволяющее пользователям создавать,
+   просматривать и управлять, выполнять, редактировать или удалять задания, а так же фильтровать.
+<u>**Технологии:**</u>
+При разработке использовал ___Spring Boot, Thymeleaf, Bootstrap, PostgreSQL, Liquibase, Hibernate.___
+
 ___
