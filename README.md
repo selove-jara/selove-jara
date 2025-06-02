@@ -51,7 +51,7 @@
    <u>**Технологии:**</u>
    При разработке использовал ___Spring Boot, PostgreSQL, Liquibase, Hibernate, Lombok, Mockito.___
 
-3. **Проект** - [SocialMediaApi](https://github.com/selove-jara/job4j_social_media_api)
+2. **Проект** - [SocialMediaApi](https://github.com/selove-jara/job4j_social_media_api)
 
    <u>**Описание:**</u>
  Проект представляет собой RESTful API для социальной медиа-платформы, обеспечивающей 
@@ -60,7 +60,7 @@
    <u>**Технологии:**</u>
    При разработке использовал ___Spring Boot, PostgreSQL, Thymeleaf, Liquibase, Hibernate, Lombok, Mockito.___
 
-5. **Проект** - [GithubAnalysis](https://github.com/selove-jara/job4j_github_analysis)
+3. **Проект** - [GithubAnalysis](https://github.com/selove-jara/job4j_github_analysis)
 
    <u>**Описание:**</u>
 Job4j GitHub Analysis – приложение на Spring Boot для автоматического сбора и анализа данных о репозиториях и
@@ -69,7 +69,7 @@ Job4j GitHub Analysis – приложение на Spring Boot для авто�
    <u>**Технологии:**</u>
    При разработке использовал ___Spring Boot, PostgreSQL, Liquibase, Hibernate, Lombok, Mockito.___
    
-7. **Проект** - [Cars](https://github.com/selove-jara/job4j_cars)
+4. **Проект** - [Cars](https://github.com/selove-jara/job4j_cars)
 
    <u>**Описание:**</u>
    Веб-приложение для просмотра объявлений о продаже автомобилей. Пользователи
@@ -78,7 +78,7 @@ Job4j GitHub Analysis – приложение на Spring Boot для авто�
    <u>**Технологии:**</u>
    При разработке использовал ___Spring Boot, Thymeleaf, Bootstrap, PostgreSQL, Liquibase, Hibernate.___
 
-8. **Проект** - [Todo](https://github.com/selove-jara/job4j_todo)
+5. **Проект** - [Todo](https://github.com/selove-jara/job4j_todo)
 
    <u>**Описание:**</u>
    Приложение для управления задачами, позволяющее пользователям создавать,
@@ -88,7 +88,7 @@ Job4j GitHub Analysis – приложение на Spring Boot для авто�
    При разработке использовал ___Spring Boot, Thymeleaf, Bootstrap, PostgreSQL, Liquibase, Hibernate.___
 
 
-10. **Проект** - [Сinema](https://github.com/selove-jara/-job4j_cinema)👈
+6. **Проект** - [Сinema](https://github.com/selove-jara/-job4j_cinema)👈
 
    <u>**Описание:**</u>
 Веб-приложение для управления кинотеатром, где пользователи могут просматривать
@@ -98,7 +98,7 @@ Job4j GitHub Analysis – приложение на Spring Boot для авто�
     <u>**Технологии:**</u>
    При разработке использовал ___Spring Boot, Thymeleaf, Bootstrap, PostgreSQL, Liquibase, Maven.___
 
-11. **Проект** - [dreamjob](https://github.com/selove-jara/job4j_dreamjob)👈
+7. **Проект** - [dreamjob](https://github.com/selove-jara/job4j_dreamjob)👈
 
    <u>**Описание:**</u> 
    "Работа мечты" — веб-приложение для поиска работы, где пользователи могут просматривать вакансии и управлять
@@ -107,7 +107,7 @@ Job4j GitHub Analysis – приложение на Spring Boot для авто�
    <u>**Технологии:**</u> При разработке использовал ___Spring Boot, Thymeleaf, PostgreSQL, H2, Liquibase, Checkstyle, Mockito, SQL2O___.
 
 
-11. **Проект** - [Парсер Java вакансий c Хабр Карьера](https://github.com/selove-jara/job4j_grabber)👈
+8. **Проект** - [Парсер Java вакансий c Хабр Карьера](https://github.com/selove-jara/job4j_grabber)👈
 
    <u>**Описание:**</u> 
    Агрегатор вакансий — это система, предназначенная для автоматического сбора и сохранения
@@ -117,7 +117,7 @@ Job4j GitHub Analysis – приложение на Spring Boot для авто�
    Есть возможность просмотра спарсенных вакансий через веб-браузер.
 
 
-11. **Проект** - [Tracker](https://github.com/selove-jara/job4j_tracker) 👈
+9. **Проект** - [Tracker](https://github.com/selove-jara/job4j_tracker) 👈
 
    <u>**Описание:**</u>  
    Консольное приложение для работы с заявками
